@@ -1,0 +1,7 @@
+.next/**
+.vercel
+node_modules/**
+test-db.js
+firebase-secret.json
+now.json
+.env
